@@ -1,4 +1,3 @@
-# Time-Series-Stock-Analysis
 # 📈 Stock Market Forecasting – AAPL (2018–2024)
 
 This project focuses on **time series forecasting of Apple Inc. (AAPL) stock prices** using multiple statistical and machine learning models. The goal is to analyze past trends, evaluate forecasting accuracy, and provide interactive visualizations for better financial insights.
